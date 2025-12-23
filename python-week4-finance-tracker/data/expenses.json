@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2025-01-15",
+    "amount": 250,
+    "category": "Food",
+    "description": "Lunch"
+  },
+  {
+    "date": "2025-01-16",
+    "amount": 1200,
+    "category": "Transport",
+    "description": "Bus pass"
+  }
+]
